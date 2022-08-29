@@ -14,6 +14,7 @@ public class Account {
 		this.balance = balance;
 	}
 	
+	//New Comment for balance
 	public double getBalance() {
 		return balance;
 		
